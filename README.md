@@ -95,8 +95,8 @@ Motivated Data Analyst with a strong background in sales & customer service. Ski
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlaa-analytics&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa-analytics&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Alaa-portfolio&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Alaa-portfolio&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
