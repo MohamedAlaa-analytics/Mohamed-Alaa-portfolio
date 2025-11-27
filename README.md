@@ -95,3 +95,5 @@ Add your CV as `resume.pdf`
 ---
 
 ⭐ *If you like any project and want the dataset or notebook, feel free to reach out!*
+![d3a5167d-c822-46e2-b778-94dedde3aaa7](https://github.com/user-attachments/assets/0480cef9-7050-46e0-945d-abe6a3404434)
+
