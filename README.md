@@ -88,8 +88,8 @@ Add your CV as `resume.pdf`
 ---
 
 ## 📫 Contact
-- **Email:** your-email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/yourprofile  
+- **Email:** mohamed.alaa1993@outlook.com  
+- **LinkedIn:** https://www.linkedin.com/in/mohamed-alaa-a4a3a7375?utm_source=share_via&utm_content=profile&utm_medium=member_ios  
 - **GitHub:** https://github.com/your-username  
 
 ---
